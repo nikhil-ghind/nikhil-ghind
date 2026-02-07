@@ -2,7 +2,7 @@
 
 **MS Software Engineering @ San Jose State University**
 
-Building scalable systems, practical ML applications, and full-stack products.
+I'm a software engineer passionate about building products that solve real problems. From designing offline-first mobile apps and real-time systems to applying machine learning for early disease detection, I love turning complex ideas into clean, working software. I thrive at the intersection of full-stack development and AI — always exploring new ways to ship things that matter.
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-nikhilghind.vercel.app-000?style=flat-square&logo=vercel)](https://nikhilghind-portfolio.vercel.app)
 [![GitHub](https://img.shields.io/badge/GitHub-nikhil--ghind-181717?style=flat-square&logo=github)](https://github.com/nikhil-ghind)
