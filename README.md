@@ -59,8 +59,16 @@ I'm a software engineer passionate about building products that solve real probl
 ### [Orbit](https://github.com/nikhil-ghind/orbit) — Offline-First Productivity Platform
 > Cross-platform mobile app combining tasks, habits, lists, and notes with intelligent sync.
 
-`React Native` `FastAPI` `PostgreSQL` `SQLite` `WebSocket` `JWT` `Google OAuth`
+![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+![WebSocket](https://img.shields.io/badge/WebSocket-010101?style=flat-square&logo=socketdotio&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
+![Google OAuth](https://img.shields.io/badge/Google_OAuth-4285F4?style=flat-square&logo=google&logoColor=white)
+![MCP](https://img.shields.io/badge/MCP-6B4FBB?style=flat-square&logoColor=white)
 
+- **MCP (Model Context Protocol) integration** — connect any LLM to manage tasks, habits, lists, and notes using plain English via natural language CRUD operations
 - Offline-first architecture with a custom three-component sync engine (Outbox → Delta Pull → Conflict Resolution)
 - Smart local notifications for task reminders and recurring habit tracking
 - Rich text notes with pinning, color-coding, and drag-and-drop reordering
@@ -70,7 +78,11 @@ I'm a software engineer passionate about building products that solve real probl
 ### [Nidana](https://github.com/nikhil-ghind/Nidana) — AI Genetic Disorder Detection
 > Portal for early detection of genetic disorders using facial feature extraction and AI. [Published Research](http://sersc.org/journals/index.php/IJFGCN/article/view/17813/9021)
 
-`Python` `Keras` `PHP` `Bootstrap` `JavaScript`
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
 - 12-layer neural network for classification from facial features
 - Live camera detection and image upload analysis with questionnaire integration
@@ -81,7 +93,12 @@ I'm a software engineer passionate about building products that solve real probl
 ### [Go Screen Sharing](https://github.com/nikhil-ghind/go-screen-sharing) — Zero-Persistence WebRTC App
 > Real-time P2P screen sharing with ephemeral rooms — no data stored on servers.
 
-`Go` `WebRTC` `WebSocket` `React` `TypeScript` `Docker`
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+![WebRTC](https://img.shields.io/badge/WebRTC-333333?style=flat-square&logo=webrtc&logoColor=white)
+![WebSocket](https://img.shields.io/badge/WebSocket-010101?style=flat-square&logo=socketdotio&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
 - Peer-to-peer streaming at 1080p / 30fps via WebRTC
 - Go backend with Gorilla WebSocket for signaling
@@ -92,7 +109,12 @@ I'm a software engineer passionate about building products that solve real probl
 ### [CF AI FlashTutor](https://github.com/nikhil-ghind/cf_ai_flashtutor) — AI-Powered Flashcard Generator
 > Converts study materials (PDFs) into interactive flashcards using Cloudflare AI.
 
-`Cloudflare Workers` `React` `TypeScript` `Llama 3.1` `Whisper` `XTTS`
+![Cloudflare Workers](https://img.shields.io/badge/Cloudflare_Workers-F38020?style=flat-square&logo=cloudflare&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Llama 3.1](https://img.shields.io/badge/Llama_3.1-0467DF?style=flat-square&logo=meta&logoColor=white)
+![Whisper](https://img.shields.io/badge/Whisper-412991?style=flat-square&logo=openai&logoColor=white)
+![XTTS](https://img.shields.io/badge/XTTS-FF6F00?style=flat-square&logoColor=white)
 
 - PDF extraction → AI chunking → flashcard generation pipeline with deduplication
 - Speech-to-text and text-to-speech accessibility features
@@ -103,7 +125,13 @@ I'm a software engineer passionate about building products that solve real probl
 ### [SVIRO Seat Detection](https://github.com/nikhil-ghind/cmpe255_seat_detection) — Multi-Model Object Detection
 > Comparative analysis of 5 object detection architectures for vehicle seat occupancy.
 
-`Python` `PyTorch` `TensorFlow` `YOLOv8` `Faster R-CNN` `RetinaNet` `EfficientDet`
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![YOLOv8](https://img.shields.io/badge/YOLOv8-00FFFF?style=flat-square&logoColor=black)
+![Faster R--CNN](https://img.shields.io/badge/Faster_R--CNN-EE4C2C?style=flat-square&logoColor=white)
+![RetinaNet](https://img.shields.io/badge/RetinaNet-FF6F00?style=flat-square&logoColor=white)
+![EfficientDet](https://img.shields.io/badge/EfficientDet-4285F4?style=flat-square&logoColor=white)
 
 - Benchmarked YOLOv8, YOLOx, Faster R-CNN, RetinaNet, and EfficientDet on the SVIRO dataset
 - Faster R-CNN achieved best accuracy (55.70% mAP@50); RetinaNet best size-accuracy trade-off
@@ -114,7 +142,12 @@ I'm a software engineer passionate about building products that solve real probl
 ### [Job Application Tracker](https://github.com/nikhil-ghind/JobApplicationTracker) — Smart Job Hunt Manager
 > Track applications with Gmail integration and automated email parsing.
 
-`Next.js` `TypeScript` `PostgreSQL` `Prisma` `NextAuth` `Google OAuth`
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
+![NextAuth](https://img.shields.io/badge/NextAuth-000000?style=flat-square&logo=next.js&logoColor=white)
+![Google OAuth](https://img.shields.io/badge/Google_OAuth-4285F4?style=flat-square&logo=google&logoColor=white)
 
 - Gmail account linking with automatic token refresh
 - Google OAuth and credentials-based authentication via NextAuth
@@ -125,7 +158,10 @@ I'm a software engineer passionate about building products that solve real probl
 ### [Sahaya](https://github.com/nikhil-ghind/Sahaya) — Girl Adoption System
 > Web application facilitating the adoption process for girls.
 
-`PHP` `HTML` `CSS` `JavaScript`
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
 - Full-stack web app with 136 commits across 6 contributors
 - Server-rendered architecture with PHP backend and templated views
